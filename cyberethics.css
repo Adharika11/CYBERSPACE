@@ -1,0 +1,147 @@
+body{
+margin:0;
+padding:0;
+background:#90c1e8;
+
+}
+
+.container {
+padding:20px;
+  position: relative;
+  color: white;
+background-color:#022642;
+width:80%;
+margin:20px auto;} 
+
+.heading{
+background:url('https://www.bbntimes.com/images/articles/global-economy/Cyberspace_AI.jpg');
+padding:50px 20px;
+background-size:100%;
+background-position:center;
+}
+
+h1{
+line-height:50px;
+color:FFFFFF;
+text-decoration:solid white;
+font-family:Verdana, sans-serif;
+font-size:30px;
+font-variant: normal;
+margin-bottom:50px;
+width:50%}
+
+.firstpara{
+text-align:justify;
+color:#E6E6FA;
+padding:10px;
+font-family:Didot, serif;
+font-style: italic;
+font-weight: bold;
+font-stretch: condensed;
+font-size:20px;
+border:1px solid white;
+line-height:30px;
+
+}
+
+.banner{
+display:grid;
+grid-template-columns: 50% 50%;
+gap:20px;
+}
+ 
+.bannerimg{
+height:200px;
+width:350px;
+margin:auto;
+border:2px solid white;
+padding:5px;
+
+}
+h2{
+text-align:left;
+color:#E0FFFF;
+padding-bottom: 10px;
+            border-bottom-style:solid;
+            border-bottom-width: 2.1px;
+            width: fit-content;
+font-family:Verdana, sans-serif;
+font-style: oblique;
+font-weight: bold;
+font-variant: normal;
+font-stretch: semi-condensed;
+margin-bottom:40px;}
+
+p{
+text-align:justify;
+color:#E6E6FA;
+padding:10px;
+font-family:Didot, serif;
+font-size:20px;
+font-weight: 300;
+font-stretch: condensed;
+}
+
+h3{
+text-align:left;
+color:#FFFFE0 ;
+padding-bottom: 5px;
+            border-bottom-style:solid;
+            border-bottom-width: 2.1px;
+            width: fit-content;
+
+font-family:Verdana, sans-serif;
+font-style: oblique;
+font-weight: bold;
+font-variant: normal;
+font-stretch: semi-condensed;
+margin-bottom:1px;}
+
+ul{
+font-size:20px;
+color:#E6E6FA;
+font-weight:bold;
+text-transform:uppercase;
+letter-spacing:2px;
+}
+
+li{
+border-bottom:2px solid white;
+margin:0 0 20px 10px;
+padding-bottom:10px;
+}
+
+footer{
+display:grid;
+grid-template-columns:50% 50%;
+gap:20px;
+background-color:white;
+padding:20px;
+color:black;
+}
+
+
+footer p{
+color:black;
+font-size:20px;
+text-align:center;
+font-family:Arial,sans-serif;
+font-weight:600;
+}
+
+i{
+color:black;
+margin-top:20px;
+margin-right:70px;
+font-size:40px;
+}
+
+.form{
+display:block;
+width:max-content;
+margin:auto;}
+
+span{
+text-decoration:underline white;}
+
+
