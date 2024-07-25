@@ -44,10 +44,4 @@ If you would like to contribute to this project, please follow these steps:
 5. Create a new Pull Request.
 
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
 
----
-
-Feel free to modify and expand upon this template based on the specific details and requirements of your project. This will make your README file comprehensive and helpful for anyone who wants to use or contribute to your project.
